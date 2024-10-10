@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Admin/Dashboard": "pages/Admin/Dashboard.js",
+  "/Admin/Products": "pages/Admin/Products.js",
+  "/Admin/Purchase": "pages/Admin/Purchase.js",
+  "/Admin/Reports": "pages/Admin/Reports.js",
+  "/Admin/Users": "pages/Admin/Users.js",
+  "/Auth/signin": "pages/Auth/signin.js",
+  "/Pos/Pos": "pages/Pos/Pos.js",
+  "/Pos/PosDashboard": "pages/Pos/PosDashboard.js",
+  "/Pos/Posreturn": "pages/Pos/Posreturn.js",
+  "/Transactions/Transactions": "pages/Transactions/Transactions.js",
+  "/_document": "pages/_document.js"
+}

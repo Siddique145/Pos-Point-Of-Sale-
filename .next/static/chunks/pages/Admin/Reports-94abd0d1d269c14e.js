@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[634],{86219:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/Admin/Reports",function(){return t(92351)}])},92351:function(n,u,t){"use strict";t.r(u);var e=t(85893);u.default=function(){return(0,e.jsx)("h1",{children:"Reports"})}}},function(n){n.O(0,[888,774,179],function(){return n(n.s=86219)}),_N_E=n.O()}]);

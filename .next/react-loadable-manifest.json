@@ -1,0 +1,21 @@
+{
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> canvg": {
+    "id": 34668,
+    "files": [
+      "static/chunks/72a30a16.86dafd8b7ab6e680.js",
+      "static/chunks/287.e5be6ba28a8c8896.js"
+    ]
+  },
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> dompurify": {
+    "id": 27856,
+    "files": [
+      "static/chunks/856.921a97f6af2cb7de.js"
+    ]
+  },
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> html2canvas": {
+    "id": 46020,
+    "files": [
+      "static/chunks/ad7f724d.67cd0c65e9003c3a.js"
+    ]
+  }
+}
