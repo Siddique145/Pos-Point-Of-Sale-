@@ -54,15 +54,15 @@ const menuItems = [
       { key: "/admin/posreturn", label: "Counter Return Sale" },
     ],
   },
-  {
-    key: "/admin/inve",
-    icon: <LaptopOutlined />,
-    label: "Management",
-    children: [
-      { key: "/admin/dummy1", label: "Dummy 1" },
-      { key: "/admin/dummy2", label: "Dummy 2" },
-    ],
-  },
+  // {
+  //   key: "/admin/inve",
+  //   icon: <LaptopOutlined />,
+  //   label: "Management",
+  //   children: [
+  //     { key: "/admin/dummy1", label: "Dummy 1" },
+  //     { key: "/admin/dummy2", label: "Dummy 2" },
+  //   ],
+  // },
   {
     key: "/admin/acc",
     icon: <LaptopOutlined />,
